@@ -1,0 +1,11 @@
+body {
+    background-color: #000000;
+}
+
+main .personagem {
+    display: none;
+}
+
+main .personagem.selecionado {
+    display: block;
+}
